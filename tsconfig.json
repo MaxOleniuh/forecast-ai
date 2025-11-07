@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "jsx": "react-jsx",
+    "strict": true,
+    "types": ["node"],
+    "typeRoots": ["./src/types", "./node_modules/@types"],
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "noEmitOnError": true,
+    "allowJs": false,
+    "noEmit": false
+  },
+  "include": ["src", "server"]
+}

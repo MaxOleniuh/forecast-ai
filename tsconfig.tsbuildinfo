@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/api/forecast.ts","./src/components/chat.tsx","./src/components/chatmessage.tsx","./src/components/forecastcard.tsx","./src/types/bun.d.ts"],"version":"5.9.3"}
